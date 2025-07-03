@@ -26,7 +26,8 @@ This project implements a supply-chain database system for a chain of convenienc
 ### IDE
 - Visual Studio Code: 1.100.3 (x64)
 
-### 과제 수행 과정
+## 과제 수행 과정
+
 1. MySQL Workbench, MySQL, VSCode 및 Extension 설치
 2. store 데이터베이스 생성
 3. schema.sql <— 테이블 생성
